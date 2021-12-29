@@ -10,3 +10,6 @@ c:\users\vaibhav.kumar\onedrive\documents\visual studio 2015\Projects\RDLCreport
 c:\users\vaibhav.kumar\onedrive\documents\visual studio 2015\Projects\RDLCreportDemo\RDLCreportDemo\obj\Debug\RDLCreportDemo.exe
 c:\users\vaibhav.kumar\onedrive\documents\visual studio 2015\Projects\RDLCreportDemo\RDLCreportDemo\obj\Debug\RDLCreportDemo.pdb
 c:\users\vaibhav.kumar\onedrive\documents\visual studio 2015\Projects\RDLCreportDemo\RDLCreportDemo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\GitHub Repositry\RDLC-Report-Demo\RDLCreportDemo\RDLCreportDemo\bin\Debug\RDLCreportDemo.exe.config
+D:\GitHub Repositry\RDLC-Report-Demo\RDLCreportDemo\RDLCreportDemo\obj\Debug\RDLCreportDemo.exe
+D:\GitHub Repositry\RDLC-Report-Demo\RDLCreportDemo\RDLCreportDemo\obj\Debug\RDLCreportDemo.pdb
